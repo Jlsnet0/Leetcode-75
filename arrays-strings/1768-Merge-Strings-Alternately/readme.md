@@ -1,6 +1,6 @@
 # 1768. Merge Strings Alternately
 
-**Dificuldade:** Easy
+**Dificuldade:** Fácil
 
 
 ## Problema
@@ -31,7 +31,7 @@ string acaba antes da outra, o restante é colado direto, sem alternância.
 | Espaço | `O(n)` | `result` cresce proporcionalmente a `word1.length + word2.length` |
 
 
-## Padrão a reconhecer no futuro
+## Padrão para reconhecer no futuro
 
 Sempre que o enunciado pedir para **percorrer duas estruturas ao mesmo
 tempo** (arrays ou strings) de forma coordenada, especialmente quando elas
